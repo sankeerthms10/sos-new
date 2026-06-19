@@ -26,7 +26,7 @@ const galleryImages = [
   },
   {
     id: 4,
-    src: 'https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=600',
+    src: 'https://res.cloudinary.com/dmcykk44y/image/upload/f_auto,q_auto/4_qbygs7',
     title: 'Classic Crunch',
     category: 'Lifestyle',
     size: 'medium',
