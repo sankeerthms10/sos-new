@@ -38,7 +38,7 @@ const products: Product[] = [
     name: 'SOS Tedhe Medhe',
     category: 'Style Chips',
     description: 'Wavy, twisted chips packed with tangy masala flavors. A dance of spices in every bite.',
-    image: 'https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: 'https://res.cloudinary.com/dmcykk44y/image/upload/v1781881368/tedhe_mendhe_jqfxgz.jpg',
     heat: 4,
     badge: 'Spicy',
     color: 'from-orange-500 to-red-600',
