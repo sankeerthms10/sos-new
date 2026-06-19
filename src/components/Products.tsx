@@ -19,7 +19,7 @@ const products: Product[] = [
     name: 'SOS Mad Angles',
     category: 'Style Chips',
     description: 'Triangular chips with bold spices and an unforgettable crunch. Perfect for those who love it spicy!',
-    image: 'https://collection.cloudinary.com/dmcykk44y/b60a61f25f004aeac9735b6c8d6701b6',
+    image: 'https://images.pexels.com/photos/1346356/pexels-photo-1346356.jpeg?auto=compress&cs=tinysrgb&w=400',
     heat: 4,
     badge: 'Best Seller',
     color: 'from-red-500 to-orange-500',
