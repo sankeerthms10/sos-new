@@ -184,22 +184,22 @@ export default function Contact() {
               {
                 icon: Phone,
                 title: 'Phone',
-                value: '+91 1800-123-4567',
+                value: '+91 7034429454',
                 subtitle: 'Toll-free (9 AM - 9 PM)',
                 color: 'from-red-500 to-orange-500',
               },
               {
                 icon: Mail,
                 title: 'Email',
-                value: 'hello@soschips.com',
+                value: 'sankeerthms10@gmail.com',
                 subtitle: 'We reply within 24 hours',
                 color: 'from-orange-500 to-yellow-500',
               },
               {
                 icon: MapPin,
                 title: 'Headquarters',
-                value: 'Mint Street, Mumbai',
-                subtitle: 'Maharashtra, India 400001',
+                value: 'attingal, Trivandrum',
+                subtitle: 'Kerala, India 400001',
                 color: 'from-yellow-500 to-amber-500',
               },
               {
