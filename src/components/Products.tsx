@@ -29,7 +29,7 @@ const products: Product[] = [
     name: 'SOS Potato Chips',
     category: 'Classic Chips',
     description: 'Thin, crispy, and perfectly salted. The classic chip experience elevated to perfection.',
-    image: 'https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: 'https://collection.cloudinary.com/dmcykk44y/b60a61f25f004aeac9735b6c8d6701b6',
     heat: 2,
     color: 'from-yellow-500 to-amber-500',
   },
