@@ -77,7 +77,7 @@ export default function About() {
               {/* Main Image */}
               <div className="relative rounded-3xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.pexels.com/photos/2368870/pexels-photo-2368870.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  src="https://res.cloudinary.com/dmcykk44y/image/upload/v1781925377/abt_sos_dbj9go.jpg"
                   alt="SOS Chips Creation"
                   className="w-full aspect-[4/3] object-cover"
                 />
