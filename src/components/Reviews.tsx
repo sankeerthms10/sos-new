@@ -38,9 +38,9 @@ const reviews = [
     name: 'Vikram',
     location: 'Chennai, India',
     rating: 5,
-    title: 'Perfect party snack',
+    title: 'Anjali Krishnan',
     text: 'Got the SOS Nachos for a party and they were a hit! Everyone kept asking where I got them. The quality is top-notch.',
-    avatar: 'https://images.pexels.com/photo-2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=100',
+    avatar: 'https://res.cloudinary.com/dmcykk44y/image/upload/v1781926284/rev4_trwk7w.jpg',
     product: 'Nachos',
   },
   {
