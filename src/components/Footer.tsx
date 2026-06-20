@@ -116,11 +116,11 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-spicy-orange flex-shrink-0 mt-0.5" />
-                <span className="text-gray-400">Mint Street, Mumbai, Maharashtra 400001</span>
+                <span className="text-gray-400">Vizhinjam, Trivandrum, Kerala 695102</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-spicy-orange flex-shrink-0" />
-                <span className="text-gray-400">+91 1800-123-4567</span>
+                <span className="text-gray-400">+91 7034429454</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-spicy-orange flex-shrink-0" />

@@ -199,7 +199,7 @@ export default function Contact() {
                 icon: MapPin,
                 title: 'Headquarters',
                 value: 'attingal, Trivandrum',
-                subtitle: 'Kerala, India 400001',
+                subtitle: 'Kerala, India 695102',
                 color: 'from-yellow-500 to-amber-500',
               },
               {
