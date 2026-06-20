@@ -236,7 +236,7 @@ export default function Contact() {
                 <div className="text-center">
                   <MapPin className="w-12 h-12 text-spicy-red mx-auto mb-3" />
                   <p className="text-gray-600 font-display font-semibold">SOS Headquarters</p>
-                  <p className="text-sm text-gray-500">Mumbai, India</p>
+                  <p className="text-sm text-gray-500">Kerala, India</p>
                 </div>
               </div>
               <div className="absolute inset-0 bg-gradient-to-t from-white/50 to-transparent" />
