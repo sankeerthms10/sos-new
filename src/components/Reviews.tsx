@@ -45,7 +45,7 @@ const reviews = [
   },
   {
     id: 5,
-    name: 'Meera',
+    name: 'Ishani',
     location: 'karnataka, India',
     rating: 5,
     title: 'Premium quality',

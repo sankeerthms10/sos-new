@@ -40,7 +40,7 @@ const galleryImages = [
   },
   {
     id: 6,
-    src: 'https://images.pexels.com/photos/1119907/pexels-photo-1119907.jpeg?auto=compress&cs=tinysrgb&w=600',
+    src: 'https://res.cloudinary.com/dmcykk44y/image/upload/v1781927816/gal_6_phlzpz.jpg',
     title: 'SOS Party Pack',
     category: 'Product',
     size: 'large',
