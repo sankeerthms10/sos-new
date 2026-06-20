@@ -171,7 +171,7 @@ export default function Footer() {
               ))}
             </div>
             <div className="flex items-center gap-1 text-sm text-gray-400">
-              Made with <Heart className="w-4 h-4 text-spicy-red fill-spicy-red" /> in India
+              Developed by Sankeerth MS | Computer Engineering Student
             </div>
           </div>
         </div>
