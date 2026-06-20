@@ -5,14 +5,14 @@ import { X, ZoomIn } from 'lucide-react';
 const galleryImages = [
   {
     id: 1,
-    src: 'https://images.pexels.com/photos/1346356/pexels-photo-1346356.jpeg?auto=compress&cs=tinysrgb&w=600',
+    src: 'https://res.cloudinary.com/dmcykk44y/image/upload/v1781923274/gal1_djzg5i.jpg',
     title: 'SOS Mad Angles',
     category: 'Product',
     size: 'large',
   },
   {
     id: 2,
-    src: 'https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=600',
+    src: 'https://res.cloudinary.com/dmcykk44y/image/upload/v1781923311/gal4_xe0vtq.jpg',
     title: 'Snack Time',
     category: 'Lifestyle',
     size: 'small',
@@ -26,14 +26,14 @@ const galleryImages = [
   },
   {
     id: 4,
-    src: 'https://res.cloudinary.com/dmcykk44y/image/upload/f_auto,q_auto/4_qbygs7',
+    src: 'https://res.cloudinary.com/dmcykk44y/image/upload/v1781923310/gal2_g19dzq.jpg',
     title: 'Classic Crunch',
     category: 'Lifestyle',
     size: 'medium',
   },
   {
     id: 5,
-    src: 'https://images.pexels.com/photos/2087907/pexels-photo-2087907.jpeg?auto=compress&cs=tinysrgb&w=600',
+    src: 'https://res.cloudinary.com/dmcykk44y/image/upload/v1781923311/gal5_x18r8l.jpg',
     title: 'Nachos Night',
     category: 'Campaign',
     size: 'medium',
