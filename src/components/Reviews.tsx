@@ -45,12 +45,12 @@ const reviews = [
   },
   {
     id: 5,
-    name: 'Ishani',
-    location: 'karnataka, India',
+    name: 'Parthipan k',
+    location: 'Kollam, India',
     rating: 5,
     title: 'Premium quality',
     text: 'You can taste the difference. Real potatoes, real spices, no artificial taste. The Masala Crunch has the most authentic flavor!',
-    avatar: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=100',
+    avatar: 'https://res.cloudinary.com/dmcykk44y/image/upload/v1782282812/par1_vjmgyx.jpg',
     product: 'Masala Crunch',
   },
 ];
